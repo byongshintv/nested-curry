@@ -1,6 +1,9 @@
 ![npm](https://img.shields.io/npm/v/nested-curry)
 ![NPM](https://img.shields.io/npm/l/nested-curry)
 
+# other language
+ * [korean](./README-KO.md)
+
 # nested-curry
 The nested-curry is library exported as Node.js modules. it provide a curry functions that support nested objects.
 
