@@ -62,7 +62,7 @@ If you want to keep the mutable state, you can pass the option below when passin
     let param = {str:"curry"};
     let helloToCurry = sayHello(param);
     param.str = 'cutlet'
-    console.log(helloToCurry()) //'hello curry!'
+    console.log(helloToCurry()) //'hello cutlet!'
 ```
 
 ### combined curry

@@ -69,7 +69,7 @@ npm에서 아래와 같이 설치 할 수 있습니다.
     let param = {str:"curry"};
     let helloToCurry = sayHello(param);
     param.str = 'cutlet'
-    console.log(helloToCurry()) //'hello curry!'
+    console.log(helloToCurry()) //'hello cutlet!'
 ```
 
 ### 커리 컴바인
