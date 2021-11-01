@@ -28,7 +28,7 @@ npm에서 아래와 같이 설치 할 수 있습니다.
 
 ```js
     let sumed = curry((...nums) => nums.reduce((a,b) => a + b))  
-    console.log(sum()(1)(2)(3)(4)(5)) //15;
+    console.log(sum(1)(2)(3)(4)(5)()) //15;
 ```
 
 ### 중첩객체 예제
