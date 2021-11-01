@@ -103,7 +103,6 @@ describe("curry", function() {
       assert.equal(result[4],3)
       assert.equal(result[5][0],"apple")
       assert.equal(result[5][1],"banana")
-      console.log(result)
     });
 
     

@@ -1,3 +1,6 @@
+![npm](https://img.shields.io/npm/v/nested-curry)
+![NPM](https://img.shields.io/npm/l/nested-curry)
+
 # nested-curry
 중첩된 객체를 지원하는 커리 함수입니다.
 

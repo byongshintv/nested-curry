@@ -6,10 +6,15 @@
   "name": "nested-curry",
   "version": "1.0.0",
   "description": "simple curry with parameter nested object",
+  "author": "SeongWook Jeon<rnaos0530@gmail.com>",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byongshintv/nested-curry"
   },
   "keywords": [
     "javascript",
